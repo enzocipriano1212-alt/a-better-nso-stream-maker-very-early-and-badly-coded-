@@ -6,7 +6,8 @@ this will work with amazeedaizee's stream loader and you might be able to edit i
 
       if you really want to try this out, all you have to do is change the images filepath and you shouold be fine
       
-<img width="1335" height="720" alt="image" src="https://github.com/user-attachments/assets/bba71616-43f9-47af-8269-6164fe064f69" />
+<img width="1333" height="720" alt="image" src="https://github.com/user-attachments/assets/41485732-acf6-41c2-b50e-8f1789ea739d" />
+
 
 
 
